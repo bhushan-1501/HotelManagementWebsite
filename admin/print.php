@@ -255,8 +255,8 @@ tr:hover .cut { opacity: 1; }
 		<header>
 			<h1>Invoice</h1>
 			<address >
-				<p>SUN RISE HOTEL,</p>
-				<p>New Kalmunani Road,<br>Battialoa,<br>Sri Lanka.</p>
+				<p>THE DELTIN HOTEL,</p>
+				<p>Varkund, Nani Daman, Daman,<br>Dadra and Nagar Haveli and Daman and Diu,<br>India.</p>
 				<p>(+94) 65 222 44 55</p>
 			</address>
 			<span><img alt="" src="assets/img/sun.png"></span>
@@ -330,7 +330,7 @@ tr:hover .cut { opacity: 1; }
 		<aside>
 			<h1><span >Contact us</span></h1>
 			<div >
-				<p align="center">Email :- info@sunrise.com || Web :- www.sunrise.com || Phone :- +94 65 222 44 55 </p>
+				<p align="center">Email :- info@thedeltin.com || Web :- www.thedeltin.com || Phone :- +94 65 222 44 55 </p>
 			</div>
 		</aside>
 	</body>
